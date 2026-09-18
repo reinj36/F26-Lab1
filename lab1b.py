@@ -11,8 +11,10 @@
 #	Create another variable called "num2" and take its value from user. 
 # Convert the values to integers using int() function
 
-num1 = input("Enter a value")
+num1 = input("Enter a value.")
+num2 = input("Enter a value again.") 
 
+num1 = 
 
 
 # TO-DO 2:
