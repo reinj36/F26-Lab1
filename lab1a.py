@@ -32,3 +32,4 @@ print(type(x))
 
 x = "hello"
 print(type(x))
+
