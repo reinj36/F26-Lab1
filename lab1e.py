@@ -28,6 +28,5 @@ print(multiplicationResult)
 
 multiplicationResult = "%12.2f" % (quantity * stock) # 5 (total # of character for product)
                                                      # + 7 (# of characters for spaces) = 12
-
 print(multiplicationResult)
 
