@@ -19,4 +19,4 @@ r = input("Enter radius: ")
 r = int(r)
 
 area = math.pi * r**2
-print("Area: " + str(area))
+print("Area: {}".format(area))
